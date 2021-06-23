@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<project version="4">
+
+
+-<component name="ChangeListManager">
+
+<list name="Default Changelist" comment="" id="5fe203bb-caf8-496e-a2e6-1b3c0305b1d0" default="true"/>
+
+<option name="SHOW_DIALOG" value="false"/>
+
+<option name="HIGHLIGHT_CONFLICTS" value="true"/>
+
+<option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false"/>
+
+<option name="LAST_RESOLUTION" value="IGNORE"/>
+
+</component>
+
+<component name="ProjectId" id="1uLb7dlk8LqLW1hqT8O9OkiDe1V"/>
+
+
+-<component name="ProjectViewState">
+
+<option name="hideEmptyMiddlePackages" value="true"/>
+
+<option name="showLibraryContents" value="true"/>
+
+</component>
+
+
+-<component name="PropertiesComponent">
+
+<property name="RunOnceActivity.OpenProjectViewOnStart" value="true"/>
+
+<property name="RunOnceActivity.ShowReadmeOnStart" value="true"/>
+
+<property name="WebServerToolWindowFactoryState" value="false"/>
+
+<property name="aspect.path.notification.shown" value="true"/>
+
+<property name="last_opened_file_path" value="$PROJECT_DIR$"/>
+
+</component>
+
+
+-<component name="RunManager">
+
+
+-<configuration default="true" nameIsGenerated="true" factoryName="" type="ArquillianJUnit">
+
+
+-<option name="arquillianRunConfiguration">
+
+
+-<value>
+
+<option name="containerStateName" value=""/>
+
+</value>
+
+</option>
+
+<option name="TEST_OBJECT" value="class"/>
+
+
+-<method v="2">
+
+<option name="Make" enabled="true"/>
+
+</method>
+
+</configuration>
+
+</component>
+
+<component name="SpellCheckerSettings" transferred="true" UseSingleDictionary="true" DefaultDictionary="application-level" CustomDictionaries="0" Folders="0" RuntimeDictionaries="0"/>
+
+
+-<component name="TaskManager">
+
+
+-<task id="Default" summary="Default task" active="true">
+
+<changelist name="Default Changelist" comment="" id="5fe203bb-caf8-496e-a2e6-1b3c0305b1d0"/>
+
+<created>1624447653170</created>
+
+<option name="number" value="Default"/>
+
+<option name="presentableId" value="Default"/>
+
+<updated>1624447653170</updated>
+
+<workItem duration="180000" from="1624447656822"/>
+
+<workItem duration="1665000" from="1624448000383"/>
+
+</task>
+
+<servers/>
+
+</component>
+
+
+-<component name="TypeScriptGeneratedFilesManager">
+
+<option name="version" value="3"/>
+
+</component>
+
+</project>
